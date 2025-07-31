@@ -73,7 +73,7 @@
     <div id="cart-modal" class="modal">
         <div class="modal-content">
             <span class="close">X</span> <!-- Bug: Using "X" instead of proper '&times;' -->
-            <h2>Your Shopping Cart</h2>
+            <h2>Your Shopping-Cart</h2>
             <div id="cart-items">
                 <!-- Cart items will be inserted here -->
             </div>
